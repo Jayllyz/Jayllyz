@@ -24,4 +24,4 @@ If you want to know more about me 👇😎
 
 - 📩 <a href="mailto:antonydavid945@gmail.com">antonydavid945@gmail.com</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayllyz&layout=compact&hide=SCSS)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayllyz&layout=compact&hide=SCSS&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
