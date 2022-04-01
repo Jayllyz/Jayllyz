@@ -15,7 +15,7 @@ You are a castaway on an island in the middle of the sea but a storm is coming..
 **Topcook :** 
  This is a dynamic website project, the goal is to make a community website about cooking recipes
 using PHP & JS. It's also my first year validation project.
-<img src="https://github.com/Jayllyz/superSmashWB/blob/main/images/topcook_logo.svg" eight="30" width="30" > 
+<img src="https://github.com/Jayllyz/superSmashWB/blob/main/images/topcook_logo.svg" height="30" width="30" > 
 
 
 **Feel free to check out my other repositories, most of them are school projects but some are interesting. 😉**
