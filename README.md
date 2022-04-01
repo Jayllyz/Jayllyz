@@ -1,5 +1,5 @@
 <h3 align="center">Antony / Jayllyz</h3>
-<p align="center">Welcome to my github, I am currently a student at ESGI 🖥️😃</p>
+<p align="center">Welcome to my github, I am currently studying at ESGI 🖥️😃</p>
   
 ---
 
@@ -23,7 +23,7 @@ using PHP & JS. It's also my first year validation project.
 ---
 
 
-### :man_technologist: Contact me :
+### :man_technologist: More about me :
 
 -  <a href="https://jayllyz.netlify.app/">jayllyz.netlify.app</a>
 
@@ -34,3 +34,4 @@ using PHP & JS. It's also my first year validation project.
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4wts4nq3qaeb51i674dsrur7g&cover_image=true&theme=natemoo-re&bar_color_cover=false&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=4wts4nq3qaeb51i674dsrur7g&redirect=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayllyz&layout=compact&hide=SCSS&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
