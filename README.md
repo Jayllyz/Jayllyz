@@ -24,6 +24,10 @@ using PHP & JS. It's also my first year validation project.
 
 <a href="https://github.com/Jayllyz/Topcook" target="_blank"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=jayllyz&repo=topcook&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/></a>
 
+**TaskToDo :**
+  Task planning software project made in C with the GTK+3.2 library, UI is made with Glade.
+<a href="https://github.com/Jayllyz/TaskToDo" target="_blank"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=jayllyz&repo=tasktodo&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/></a>
+
 **Feel free to check out my other repositories, most of them are school projects but some are interesting. 😉**
 
 ---
@@ -46,4 +50,4 @@ using PHP & JS. It's also my first year validation project.
 
 ------
 [Jayllyz](https://github.com/Jayllyz)
-Last Edited 12/13/2022
+Last Edited 01/24/2023
