@@ -10,19 +10,19 @@
 This is a game made in python with a friend, a strategy game that we imagined and created from scratch.
 You are a castaway on an island in the middle of the sea but a storm is coming... good luck 😇
 
-<a href="https://github.com/Jayllyz/SurvivetheTempest" target="_blank"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=jayllyz&repo=survivethetempest&theme=dark&bg_color=00000000"/></a>
+<a href="https://github.com/Jayllyz/SurvivetheTempest" target="_blank"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=jayllyz&repo=survivethetempest&theme=dark&bg_color=00000000&title_color=58A6FF"/></a>
 
 **Topcook :** 
  This is a dynamic website project, the goal is to make a community website about cooking recipes
 using PHP & JS. It's also my first year validation project.
 <img src="https://github.com/Jayllyz/superSmashWB/blob/main/images/topcook_logo.svg" height="20em" > 
 
-<a href="https://github.com/Jayllyz/Topcook" target="_blank"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=jayllyz&repo=topcook&theme=dark&bg_color=00000000"/></a>
+<a href="https://github.com/Jayllyz/Topcook" target="_blank"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=jayllyz&repo=topcook&theme=dark&bg_color=00000000&title_color=58A6FF"/></a>
 
 **TaskToDo :**
   Task planning software project made in C with the GTK+3.2 library, UI is made with Glade.
   
-<a href="https://github.com/Jayllyz/TaskToDo" target="_blank"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=jayllyz&repo=tasktodo&theme=dark&bg_color=00000000"/></a>
+<a href="https://github.com/Jayllyz/TaskToDo" target="_blank"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=jayllyz&repo=tasktodo&theme=dark&bg_color=00000000&title_color=58A6FF"/></a>
 
 **Feel free to check out my other repositories, most of them are school projects but some are interesting. 😉**
 
@@ -39,8 +39,8 @@ using PHP & JS. It's also my first year validation project.
 
 <a href="https://www.codewars.com/users/Jayllyz" target="_blank"><img src="https://www.codewars.com/users/Jayllyz/badges/large"/></a>
   
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=jayllyz&theme=dark&show_icons=true&bg_color=00000000" alt="jayllyz-stats"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayllyz&layout=compact&theme=dark&bg_color=00000000&hide=shaderlab,SCSS&langs_count=6" alt="jayllyz-langs"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=jayllyz&theme=dark&show_icons=true&bg_color=00000000&title_color=58A6FF" alt="jayllyz-stats"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayllyz&layout=compact&theme=dark&bg_color=00000000&hide=shaderlab,SCSS&langs_count=6&title_color=58A6FF" alt="jayllyz-langs"/>
  </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jayllyz&label=Profile%20views&color=0e75b6&style=flat" alt="rock12231"/> <img src="https://img.shields.io/github/followers/Jayllyz"/></p>
 
