@@ -5,9 +5,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ESGI+Student;In+software+development;&center=true&width=500&height=50"></a>
 </p>
-  
----
 
+---
 
 ##### Here you can find my projects
 
@@ -26,6 +25,7 @@ using PHP & JS. It's also my first year validation project.
 
 **TaskToDo :**
   Task planning software project made in C with the GTK+3.2 library, UI is made with Glade.
+  
 <a href="https://github.com/Jayllyz/TaskToDo" target="_blank"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=jayllyz&repo=tasktodo&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/></a>
 
 **Feel free to check out my other repositories, most of them are school projects but some are interesting. 😉**
@@ -36,7 +36,7 @@ using PHP & JS. It's also my first year validation project.
 ### :man_technologist: More about me :
   [![LinkedIn Badge](https://img.shields.io/badge/-antodavid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antodavid/)](https://www.linkedin.com/in/antodavid/)&nbsp;
   [![mail Badge](https://img.shields.io/badge/-antonydavid945@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antonydavid945@gmail.com)](mailto:antonydavid945@gmail.com)&nbsp;
-  [![resume Badge](https://img.shields.io/badge/-My%20resume-red?style=flat-square&logo=Netlify&logoColor=white&link=https://jayllyz.github.io/online-cv/)](https://jayllyz.github.io/online-cv/)&nbsp;
+  [![resume Badge](https://img.shields.io/badge/-My%20resume-blue?style=flat-square&logo=ReadMe&logoColor=white&link=https://jayllyz.github.io/online-cv/)](https://jayllyz.github.io/online-cv/)&nbsp;
 
 <div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=4wts4nq3qaeb51i674dsrur7g&redirect=true" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=4wts4nq3qaeb51i674dsrur7g&cover_image=true&theme=natemoo-re&bar_color_cover=false&bar_color=53b14f"/></a>
@@ -50,4 +50,4 @@ using PHP & JS. It's also my first year validation project.
 
 ------
 [Jayllyz](https://github.com/Jayllyz)
-Last Edited 01/24/2023
+Last Edited 04/04/2023
