@@ -6,24 +6,34 @@
 
 ---
 
-**Survive The Tempest :**
+<details>
+ <summary><strong>:ocean: Survive The Tempest </strong></summary>
+ 
 This is a game made in python with a friend, a strategy game that we imagined and created from scratch.
 You are a castaway on an island in the middle of the sea but a storm is coming... good luck 😇
 
 <a href="https://github.com/Jayllyz/SurvivetheTempest" target="_blank"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=jayllyz&repo=survivethetempest&theme=dark&bg_color=00000000&title_color=39A6FF"/></a>
+</details>
 
-**Topcook :**
+
+<details>
+ <summary><strong>:hamburger: Topcook</strong></summary>
+ 
  This is a dynamic website project, the goal is to make a community website about cooking recipes
 using PHP & JS. It's also my first year validation project.
-<img src="https://github.com/Jayllyz/superSmashWB/blob/main/images/topcook_logo.svg" height="20em" > 
-
+<img src="https://github.com/Jayllyz/superSmashWB/blob/main/images/topcook_logo.svg" height="20em" >
+ 
 <a href="https://github.com/Jayllyz/Topcook" target="_blank"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=jayllyz&repo=topcook&theme=dark&bg_color=00000000&title_color=39A6FF"/></a>
+ </details>
 
-**TaskToDo :**
-  Task planning software project made in C with the GTK+3.2 library, UI is made with Glade.
+<details>
+ <summary><strong>:memo: TaskToDo</strong></summary>
+ 
+  Task planning software project made in C with the GTK+3.2 library, UI is made with Glade.&nbsp;
   
 <a href="https://github.com/Jayllyz/TaskToDo" target="_blank"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=jayllyz&repo=tasktodo&theme=dark&bg_color=00000000&title_color=39A6FF"/></a>
-
+</details>
+ 
 **Feel free to check out my other repositories, most of them are school projects but some are interesting. 😉**
 
 ---
