@@ -5,7 +5,33 @@
 #### Projects  : 
 
 <details>
- <summary><strong>:ocean: Survive The Tempest </strong></summary>
+ <summary><strong>:memo: TaskToDo - 2023</strong></summary>
+ 
+  Task planning software project made in C with the GTK+3.2 library, UI is made with Glade.&nbsp;
+  
+<a href="https://github.com/Jayllyz/TaskToDo" target="_blank"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=jayllyz&repo=tasktodo&theme=dark&bg_color=00000000&title_color=39A6FF"/></a>
+</details>
+
+<details>
+ <summary><strong>:hamburger: Topcook - 2022</strong></summary>
+ 
+ This is a dynamic website project, the goal is to make a community website about cooking recipes
+using PHP & JS. It's also my first year validation project.
+<img src="https://github.com/Jayllyz/superSmashWB/blob/main/images/topcook_logo.svg" height="20em" >
+ 
+<a href="https://github.com/Jayllyz/Topcook" target="_blank"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=jayllyz&repo=topcook&theme=dark&bg_color=00000000&title_color=39A6FF"/></a>
+ </details>
+ 
+ <details>
+ <summary><strong>📈 A star - 2021</strong></summary>
+ 
+C implementation of the [A*](https://en.wikipedia.org/wiki/A*_search_algorithm) search algorithm.
+ 
+<a href="https://github.com/Jayllyz/Astar" target="_blank"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=jayllyz&repo=astar&theme=dark&bg_color=00000000&title_color=39A6FF"/></a>
+ </details>
+ 
+ <details>
+ <summary><strong>:ocean: Survive The Tempest - 2019</strong></summary>
  
 This is a game made in python with a friend, a strategy game that we imagined and created from scratch.
 You are a castaway on an island in the middle of the sea but a storm is coming... good luck 😇
@@ -14,23 +40,6 @@ You are a castaway on an island in the middle of the sea but a storm is coming..
 
 </details>
 
-<details>
- <summary><strong>:hamburger: Topcook</strong></summary>
- 
- This is a dynamic website project, the goal is to make a community website about cooking recipes
-using PHP & JS. It's also my first year validation project.
-<img src="https://github.com/Jayllyz/superSmashWB/blob/main/images/topcook_logo.svg" height="20em" >
- 
-<a href="https://github.com/Jayllyz/Topcook" target="_blank"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=jayllyz&repo=topcook&theme=dark&bg_color=00000000&title_color=39A6FF"/></a>
- </details>
-
-<details>
- <summary><strong>:memo: TaskToDo</strong></summary>
- 
-  Task planning software project made in C with the GTK+3.2 library, UI is made with Glade.&nbsp;
-  
-<a href="https://github.com/Jayllyz/TaskToDo" target="_blank"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=jayllyz&repo=tasktodo&theme=dark&bg_color=00000000&title_color=39A6FF"/></a>
-</details>
  
 **Feel free to check out my other repositories, most of them are school projects but some are interesting. 😉**
 
