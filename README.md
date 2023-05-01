@@ -2,7 +2,24 @@
 
 ---
 
-#### Projects  : 
+#### Projects :
+
+<details>
+ <summary><strong>🏢 TeamEase - 2023</strong></summary>
+ 
+  Website, android app and java statistics dashboard for a team building company.&nbsp;
+
+Work in progress, coming soon... ⌛&nbsp;
+
+</details>
+
+<details>
+ <summary><strong>🧩 Sudoku-rust - 2023</strong></summary>
+ 
+  Sudoku generator & solver using the backtracking algorithm, made in Rust with Actix web.&nbsp;
+  
+<a href="https://github.com/Jayllyz/sudoku-rust" target="_blank"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=jayllyz&repo=sudoku-rust&theme=dark&bg_color=00000000&title_color=39A6FF"/></a>
+</details>
 
 <details>
  <summary><strong>:memo: TaskToDo - 2023</strong></summary>
@@ -40,7 +57,6 @@ You are a castaway on an island in the middle of the sea but a storm is coming..
 
 </details>
 
- 
 **Feel free to check out my other repositories, most of them are school projects but some are interesting. 😉**
 
 ---
@@ -50,7 +66,7 @@ You are a castaway on an island in the middle of the sea but a storm is coming..
 [![LinkedIn Badge](https://img.shields.io/badge/-antodavid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antodavid/)](https://www.linkedin.com/in/antodavid/)&nbsp;
 [![mail Badge](https://img.shields.io/badge/-antonydavid945@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antonydavid945@gmail.com)](mailto:antonydavid945@gmail.com)&nbsp;
 [![CV Badge](https://img.shields.io/badge/-CV-blue?style=flat-square&logo=ReadMe&logoColor=white&link=https://jayllyz.github.io/online-cv/)](https://jayllyz.github.io/online-cv/)&nbsp;
-[![CV Badge](https://img.shields.io/badge/-Playlist-brigthgreen?style=flat-square&color=1DB954&logo=Spotify&logoColor=white&link=https://open.spotify.com/playlist/5jjweWHLI4XcWsMEiTg0YB?si=d10523e71acb4c75)](https://open.spotify.com/playlist/5jjweWHLI4XcWsMEiTg0YB?si=d10523e71acb4c75)&nbsp;
+[![Spotify](https://img.shields.io/badge/-Playlist-brigthgreen?style=flat-square&color=1DB954&logo=Spotify&logoColor=white&link=https://open.spotify.com/playlist/5jjweWHLI4XcWsMEiTg0YB?si=d10523e71acb4c75)](https://open.spotify.com/playlist/5jjweWHLI4XcWsMEiTg0YB?si=d10523e71acb4c75)&nbsp;
 
 <div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=4wts4nq3qaeb51i674dsrur7g&redirect=true" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=4wts4nq3qaeb51i674dsrur7g&cover_image=true&theme=natemoo-re&bar_color_cover=false&bar_color=53b14f"/></a>
@@ -65,4 +81,4 @@ You are a castaway on an island in the middle of the sea but a storm is coming..
 ---
 
 [Jayllyz](https://github.com/Jayllyz)
-Last Edited 04/05/2023
+Last Edited 05/01/2023
