@@ -9,7 +9,7 @@
  
   Website, android app and java statistics dashboard for a team building company.&nbsp;
 
-Work in progress, coming soon... ⌛&nbsp;
+<a href="https://github.com/Jayllyz/TeamEase" target="_blank"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=jayllyz&repo=TeamEase&theme=dark&bg_color=00000000&title_color=39A6FF"/></a>
 
 </details>
 
@@ -81,4 +81,4 @@ You are a castaway on an island in the middle of the sea but a storm is coming..
 ---
 
 [Jayllyz](https://github.com/Jayllyz)
-Last Edited 05/01/2023
+Last Edited 05/20/2023
