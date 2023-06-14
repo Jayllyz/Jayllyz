@@ -65,7 +65,7 @@ You are a castaway on an island in the middle of the sea but a storm is coming..
 
 [![LinkedIn Badge](https://img.shields.io/badge/-antodavid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antodavid/)](https://www.linkedin.com/in/antodavid/)&nbsp;
 [![mail Badge](https://img.shields.io/badge/-antonydavid945@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antonydavid945@gmail.com)](mailto:antonydavid945@gmail.com)&nbsp;
-[![CV Badge](https://img.shields.io/badge/-CV-blue?style=flat-square&logo=ReadMe&logoColor=white&link=https://jayllyz.github.io/online-cv/)](https://jayllyz.github.io/online-cv/)&nbsp;
+[![CV Badge](https://img.shields.io/badge/-CV-blue?style=flat-square&logo=ReadMe&logoColor=white&link=https://jayllyz.github.io/)](https://jayllyz.github.io/)&nbsp;
 [![Spotify](https://img.shields.io/badge/-Playlist-brigthgreen?style=flat-square&color=1DB954&logo=Spotify&logoColor=white&link=https://open.spotify.com/playlist/5jjweWHLI4XcWsMEiTg0YB?si=d10523e71acb4c75)](https://open.spotify.com/playlist/5jjweWHLI4XcWsMEiTg0YB?si=d10523e71acb4c75)&nbsp;
 
 <div align="center">
