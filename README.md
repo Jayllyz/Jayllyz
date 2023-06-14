@@ -74,7 +74,7 @@ You are a castaway on an island in the middle of the sea but a storm is coming..
 <a href="https://www.codewars.com/users/Jayllyz" target="_blank"><img src="https://www.codewars.com/users/Jayllyz/badges/large"/></a>
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jayllyz&theme=dark&show_icons=true&bg_color=00000000&title_color=39A6FF" alt="jayllyz-stats"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayllyz&layout=compact&theme=dark&bg_color=00000000&hide=shaderlab,SCSS&langs_count=6&title_color=39A6FF" alt="jayllyz-langs"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayllyz&layout=compact&theme=dark&bg_color=00000000&hide=shaderlab,SCSS&exclude_repo=jayllyz.github.io&langs_count=6&title_color=39A6FF" alt="jayllyz-langs"/>
  </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jayllyz&label=Profile%20views&color=0e75b6&style=flat" alt="rock12231"/> <img src="https://img.shields.io/github/followers/Jayllyz"/></p>
 
