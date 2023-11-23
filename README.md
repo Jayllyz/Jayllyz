@@ -7,8 +7,8 @@
 </div>
 
 <div align="center">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jayllyz&theme=dark&show_icons=true&bg_color=00000000&title_color=39A6FF" loading="lazy" alt="jayllyz-stats"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayllyz&layout=compact&theme=dark&bg_color=00000000&hide=shaderlab,SCSS&exclude_repo=jayllyz.github.io&langs_count=6&title_color=39A6FF" alt="jayllyz-langs"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jayllyz&theme=github_dark_dimmed&show_icons=true&bg_color=00000000&hide_border=true" loading="lazy" alt="jayllyz-stats"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayllyz&layout=compact&theme=github_dark_dimmed&bg_color=00000000&hide=shaderlab,SCSS&exclude_repo=jayllyz.github.io&langs_count=6&hide_border=true" alt="jayllyz-langs"/>
 </div>
 
 <br>
