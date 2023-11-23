@@ -3,11 +3,24 @@
 ---
 
 <div align="center">
-  <a href="https://spotistats.app/user/jayllyz" target="_blank"> <img src="https://card.elwan.ch/?username=jayllyz&type=artists&range=lifetime&g_start=00000000&g_stop=00000000&?"> </a>
+  <a href="https://spotistats.app/user/jayllyz" target="_blank">
+    <picture>
+      <source
+        srcset="https://card.elwan.ch/?username=jayllyz&type=artists&range=lifetime&g_start=00000000&g_stop=00000000&?"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://card.elwan.ch/?username=jayllyz&type=artists&range=lifetime&?"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://card.elwan.ch/?username=jayllyz&type=artists&range=lifetime&?" />
+    </picture>
+  </a>
 </div>
 
+
 <div align="center">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jayllyz&theme=github_dark_dimmed&show_icons=true&bg_color=00000000&hide_border=true" loading="lazy" alt="jayllyz-stats"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jayllyz&theme=github_dark_dimmed&show_icons=true&bg_color=00000000&hide_border=true" alt="jayllyz-stats"/>
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayllyz&layout=compact&theme=github_dark_dimmed&bg_color=00000000&hide=shaderlab,SCSS&exclude_repo=jayllyz.github.io&langs_count=6&hide_border=true" alt="jayllyz-langs"/>
 </div>
 
@@ -22,5 +35,5 @@
 
 </div>
 
-<img src="./img/2b-left.gif" height="120" width="auto" align="left">
-<img src="./img/2b-right.gif" height="120" width="auto" align="right">
+<img src="./img/2b-left.gif" height="120" width="auto" align="left" alt="2b-gif">
+<img src="./img/2b-right.gif" height="120" width="auto" align="right" alt="2b-gif">
