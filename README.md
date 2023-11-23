@@ -22,9 +22,5 @@
 
 </div>
 
-<img src="./img/2b-left.gif" height="110" width="auto" align="left">
-<img src="./img/2b-right.gif" height="110" width="auto" align="right">
-
-<br><br><br><br>
-
----
+<img src="./img/2b-left.gif" height="120" width="auto" align="left">
+<img src="./img/2b-right.gif" height="120" width="auto" align="right">
