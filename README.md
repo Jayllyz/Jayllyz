@@ -13,7 +13,7 @@
         srcset="https://card.elwan.ch/?username=jayllyz&type=artists&range=lifetime"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://card.elwan.ch/?username=jayllyz&type=artists&range=lifetime" alt="spotify-stats" />
+      <img src="https://card.elwan.ch/?username=jayllyz&type=artists&range=lifetime&g_start=00000000&g_stop=00000000" alt="spotify-stats" />
     </picture>
   </a>
 </div>
