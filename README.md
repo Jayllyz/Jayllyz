@@ -6,14 +6,14 @@
   <a href="https://spotistats.app/user/jayllyz" target="_blank">
     <picture>
       <source
-        srcset="https://card.elwan.ch/?username=jayllyz&type=artists&range=lifetime&g_start=00000000&g_stop=00000000"
+        srcset="https://statsfm.jayllyz.fr/?username=jayllyz&type=artists&range=lifetime&g_start=00000000&g_stop=00000000"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://card.elwan.ch/?username=jayllyz&type=artists&range=lifetime"
+        srcset="https://statsfm.jayllyz.fr/?username=jayllyz&type=artists&range=lifetime"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://card.elwan.ch/?username=jayllyz&type=artists&range=lifetime&g_start=00000000&g_stop=00000000" alt="spotify-stats" />
+      <img src="https://statsfm.jayllyz.fr/?username=jayllyz&type=artists&range=lifetime&g_start=00000000&g_stop=00000000" alt="spotify-stats" />
     </picture>
   </a>
 </div>
