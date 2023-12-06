@@ -1,4 +1,4 @@
-![Header](./img/header.png)
+![Header](./img/header.png?raw=true)
 
 ---
 
@@ -35,5 +35,5 @@
 
 </div>
 
-<img src="./img/2b-left.gif" height="120" width="auto" align="left" alt="2b-gif">
-<img src="./img/2b-right.gif" height="120" width="auto" align="right" alt="2b-gif">
+<img src="./img/2b-left.gif?raw=true" height="120" width="auto" align="left" alt="2b-gif">
+<img src="./img/2b-right.gif?raw=true" height="120" width="auto" align="right" alt="2b-gif">
