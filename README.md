@@ -22,7 +22,6 @@
 <div align="center">
   
   ![status](https://api.statusbadges.me/badge/status/219795283305824256?simple=true)
-  ![vscode](https://api.statusbadges.me/badge/vscode/219795283305824256)
   [![spotify](https://api.statusbadges.me/badge/spotify/219795283305824256)](https://api.statusbadges.me/openspotify/219795283305824256)
   
 </div>
